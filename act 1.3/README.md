@@ -1,5 +1,5 @@
-## Act 1.3 - Actividad Integral de Conceptos Básicos y Algoritmos Fundamentales
-# Correcciones de la actividad
+# Act 1.3 - Actividad Integral de Conceptos Básicos y Algoritmos Fundamentales
+## Correcciones de la actividad
 
 - Lectura Archivo (10/10)  
 
