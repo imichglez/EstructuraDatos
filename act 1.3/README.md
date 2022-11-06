@@ -3,7 +3,8 @@
 
 - Lectura Archivo (10/10)
 - Ordenar Datos (20/20)
-- Busqueda Informacion (5/20): Búsqueda secuencial, al usar este algoritmo no aprovechas el hecho de tenerlo ordenado. (-10) 
+- Busqueda Informacion (5/20): Búsqueda secuencial, al usar este algoritmo no aprovechas el hecho de tenerlo ordenado. (-10)  
+
 Si se pone una fecha que no esté en el archivo pero sí en el rango termina de manera innesperada. (-5)
 - Despliega Descendente (20/20)
 - Documento reflexion (15/20): No se da una verdadera justificación de porque utilizan búsqueda secuencual (-3);  por coevaluación (-2) 
